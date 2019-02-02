@@ -17,7 +17,6 @@ function randomImage(){
     console.log(image);
 }
 
-//<img src="assets/birthday1.jpg" alt="birthday cartoon">
 
 var randomizeButton = document.getElementById('message-button');
 randomizeButton.addEventListener('click', function(){
